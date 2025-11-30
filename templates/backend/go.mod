@@ -1,4 +1,4 @@
-module github.com/stolos-cloud/stolos-k8s-template/templates/backend
+module github.com/stolos-cloud/stolos-test/templates/backend
 
 go 1.25.0
 

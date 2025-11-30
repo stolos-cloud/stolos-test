@@ -1,4 +1,4 @@
-module github.com/stolos-cloud/stolos-k8s-template/scaffolds/container-ingress-db-redis
+module github.com/stolos-cloud/stolos-test/scaffolds/container-ingress-db-redis
 
 go 1.25.0
 

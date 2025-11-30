@@ -6,7 +6,7 @@ metadata:
     stolos.cloud/template-display-name: Backend API service
 spec:
   wasmUrls:
-    flight: oci://ghcr.io/stolos-cloud/stolos-k8s-template/templates/backend:8a5406220e76959304356cea5d2b118cc847e43f
+    flight: oci://ghcr.io/stolos-cloud/stolos-test/templates/backend:8a5406220e76959304356cea5d2b118cc847e43f
   fixDriftInterval: 5m0s
   mode: subscription
   template:
